@@ -4,7 +4,6 @@
 If you have any questions or suggestions, please contact us.
 
 **Contact Email / 联系邮箱:**
-your-email@example.com (替换成您的真实邮箱)
-
+dukunchreng@gmail.com 
 **Issues / 问题反馈:**
-[Click here to report an issue](https://github.com/kkk91kk/您的仓库名/issues)
+[Click here to report an issue](https://github.com/kkk91kk/AppSupport/issues)
